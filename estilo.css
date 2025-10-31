@@ -6,29 +6,21 @@
 }
 
 
-
-
-
-
-
-
-
 body{
     background-image: url(hent.png);
     background-color: rgb(15, 16, 16);
     margin: 0px; 
     
     
-
 }
 
 main {
     display:flex;
     gap: 15%;
     text-align: center;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
   
 }
 @keyframes anima/*é uma regra CSS que define uma animação,
@@ -53,20 +45,16 @@ h1{
 }   
 
 
-
-
 p{color: var(--cor-texto);
     font-size: 2rem;
-    
-    
     
         
 }
     
 
     .foto {
-            display: flex;
-            gap:10%;
+        display: flex;
+        gap:10%;
         border-style: solid;
         border-color: black;
         height: 470px;
@@ -76,22 +64,14 @@ p{color: var(--cor-texto);
         .escrita{
             font-size: 30px;
             
-        
-            
-
-
             
         }
+
+
         .contatos{
             display: flex;
             gap: 10px;
         }
-   .foot{
-color: #ffffff;
-
-
-
-   }
    
    
 
